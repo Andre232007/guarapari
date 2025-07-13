@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Andre232007/guarapari/static/css/main.a62ccb48.css",
-    "main.js": "/Andre232007/guarapari/static/js/main.6e7acffb.js",
-    "index.html": "/Andre232007/guarapari/index.html",
-    "main.a62ccb48.css.map": "/Andre232007/guarapari/static/css/main.a62ccb48.css.map",
-    "main.6e7acffb.js.map": "/Andre232007/guarapari/static/js/main.6e7acffb.js.map"
+    "main.css": "/guarapari/static/css/main.a62ccb48.css",
+    "main.js": "/guarapari/static/js/main.6e7acffb.js",
+    "index.html": "/guarapari/index.html",
+    "main.a62ccb48.css.map": "/guarapari/static/css/main.a62ccb48.css.map",
+    "main.6e7acffb.js.map": "/guarapari/static/js/main.6e7acffb.js.map"
   },
   "entrypoints": [
     "static/css/main.a62ccb48.css",
